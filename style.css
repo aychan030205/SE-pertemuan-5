@@ -194,6 +194,7 @@ footer a {
 footer a:hover {
   color: var(--brand-maroon-light);
 } 
+
 footer .footer-brand {
   color: #f1f5f9;
   font-weight: 700;
