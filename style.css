@@ -193,8 +193,7 @@ footer a {
 }
 footer a:hover {
   color: var(--brand-maroon-light);
-} 
-
+}
 footer .footer-brand {
   color: #f1f5f9;
   font-weight: 700;
@@ -202,4 +201,4 @@ footer .footer-brand {
 }
 footer .footer-brand span {
   color: var(--brand-maroon-light);
-}
+} 
